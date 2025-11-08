@@ -70,15 +70,15 @@ pillow - 11.3.0
 🔗 GitHub: [rakshambhola](https://github.com/rakshambhola)
 
 ---
+## 📂Assets
 
-## 🪄 Future Improvements (Planned)
-
-* Add progress bar & estimated completion time
-* Add custom compression level option
-* Add Modern GUI
+* Release: [OptiPress-Image-Compressor-v.0.5.1_GG.zip](https://github.com/rakshambhola/OptiPress-Image-Compressor-v.0.5.1_GG/releases/download/v.0.5.1_GG/OptiPress-Image-Compressor-v.0.5.1_GG.zip)
+* [Source code(zip)](https://github.com/rakshambhola/OptiPress-Image-Compressor-v.0.5.1_GG/archive/refs/tags/v.0.5.1_GG.zip)
+* [Source code(tar.gz)](https://github.com/rakshambhola/OptiPress-Image-Compressor-v.0.5.1_GG/archive/refs/tags/v.0.5.1_GG.tar.gz)
 
 ---
 
 ## 📜 License
 
 This project is open-source and available under the **MIT License**.
+---
