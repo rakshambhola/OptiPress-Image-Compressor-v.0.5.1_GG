@@ -5,10 +5,9 @@
 ---
 ## 📂Assets
 
-* Release: [OptiPress-Image-Compressor-v.0.7.1_GG.zip]()
+* Latest Release: [OptiPress-Image-Compressor-v.0.7.1_GG.zip](https://github.com/rakshambhola/OptiPress-Image-Compressor_GG/releases/download/v.0.7.1_GG/OptiPress-Image-Compressor-v.0.7.1_GG.zip)
 * Release: [OptiPress-Image-Compressor-v.0.5.1_GG.zip](https://github.com/rakshambhola/OptiPress-Image-Compressor-v.0.5.1_GG/releases/download/v.0.5.1_GG/OptiPress-Image-Compressor-v.0.5.1_GG.zip)
-* [Source code(zip)](https://github.com/rakshambhola/OptiPress-Image-Compressor-v.0.5.1_GG/archive/refs/tags/v.0.5.1_GG.zip)
-* [Source code(tar.gz)](https://github.com/rakshambhola/OptiPress-Image-Compressor-v.0.5.1_GG/archive/refs/tags/v.0.5.1_GG.tar.gz)
+
 ---
 
 ## 🧠 Overview
@@ -19,6 +18,7 @@ This tool allows you to:
 * Automatically handle **duplicate file/folder names**.
 * Preserve **transparent PNGs** safely.
 * Preserves your folder and subfolder structure across all file formats.
+* Supports ".jpg", ".jpeg", ".png", ".webp", ".bmp", ".tiff" formats.
 
 ---
 
@@ -70,7 +70,6 @@ tqdm - 4.66.4
 
 ## 💬 Notes
 
-* Transparent PNGs or any other file format are **copied** (not compressed) 
 * The tool never deletes or overwrites your original files.
 
 ---
