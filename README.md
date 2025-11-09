@@ -73,7 +73,6 @@ tqdm - 4.66.4
 * The tool never deletes or overwrites your original files.
 
 ---
----
 
 ## 🧑‍💻 Author
 
