@@ -3,7 +3,12 @@
 **OptiPress** - A lightweight yet powerful image compression tool that intelligently reduces image size without sacrificing quality. It preserves metadata, handles transparency, and maintains your original folder structure automatically.
 
 ---
+## 📂Assets
 
+* Release: [OptiPress-Image-Compressor-v.0.7.1_GG.zip]()
+* Release: [OptiPress-Image-Compressor-v.0.5.1_GG.zip](https://github.com/rakshambhola/OptiPress-Image-Compressor-v.0.5.1_GG/releases/download/v.0.5.1_GG/OptiPress-Image-Compressor-v.0.5.1_GG.zip)
+* [Source code(zip)](https://github.com/rakshambhola/OptiPress-Image-Compressor-v.0.5.1_GG/archive/refs/tags/v.0.5.1_GG.zip)
+* [Source code(tar.gz)](https://github.com/rakshambhola/OptiPress-Image-Compressor-v.0.5.1_GG/archive/refs/tags/v.0.5.1_GG.tar.gz)
 ---
 
 ## 🧠 Overview
@@ -75,13 +80,6 @@ tqdm - 4.66.4
 
 **👤 Raksham Bhola**
 🔗 GitHub: [rakshambhola](https://github.com/rakshambhola)
-
----
-## 📂Assets
-
-* Release: [OptiPress-Image-Compressor-v.0.5.1_GG.zip](https://github.com/rakshambhola/OptiPress-Image-Compressor-v.0.5.1_GG/releases/download/v.0.5.1_GG/OptiPress-Image-Compressor-v.0.5.1_GG.zip)
-* [Source code(zip)](https://github.com/rakshambhola/OptiPress-Image-Compressor-v.0.5.1_GG/archive/refs/tags/v.0.5.1_GG.zip)
-* [Source code(tar.gz)](https://github.com/rakshambhola/OptiPress-Image-Compressor-v.0.5.1_GG/archive/refs/tags/v.0.5.1_GG.tar.gz)
 
 ---
 
